@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.imagemcabecalho{
+    padding-left:20px;
+    margin-left: 10px;
+    width: 50px;
+    float: left;
+    border: thin solid;
+    border-color: darkblue;
+    padding: 7px
+}
+.cabecalho {
+    padding-top: 15px;
+    margin-left: 90px;
+}
+.backgroud {
+    background-color: rgb(236, 236, 236);
+}
+
+.titulo-principal {
+    font-size: 30px;
+    height: 25px;
+    box-shadow: 15px 0 0 0 #000, -15px 0 0 0 #000;
+    margin-top: 45px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.paragrafo{
+    text-align: center;
+    text-decoration: underline;
+    box-shadow: 15px 0 0 0 #000, -15px 0 0 0 #000;
+    margin-top: 30px;
+    font-size: 20px;
+    height: 30px;
+}
+.tabela {
+    width: 380px;
+    height: 30px;
+}
+.atalho {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+.detalhes {
+    text-align: center;
+}
+.imagem {
+    width: 100px;
+}
+
